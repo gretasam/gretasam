@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gretasam
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning procedural programming language (C)
+- 🌱 I’m currently learning procedural programming language (C#)
 - 💞️ I’m looking for a chance to improve my programming skills and be a part of any project
 - 📫 How to reach me gretasamuityte@gmail.com
 
